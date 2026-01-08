@@ -363,6 +363,8 @@ Parameter by Churn Rate % = {
     ("NumOfProducts", NAMEOF('Fact_Bank_Departure'[NumOfProducts]), 8)
 }
 
+#### Power BI
+
 Visualizations Used:
 1. Key Influencer Visualization
 2. Decomposition Tree
